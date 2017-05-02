@@ -4,7 +4,8 @@ Le storie si raccontano per parlare della vita, dare insegnamento o solo uno spu
 ## Miti
 Essi nascono tra il IX e l'VIII secolo a.C. e descrivono molte cose: danno un senso alle stelle, ai comportamenti o all'aspetto degli animali. 
 Scoprirli è davvero affascinante per come intrecciano aspetti di vita quotidiana con i forti contrasti della natura umana.
-+ [Icario, Erigone ed il cane Mera](mitologia/icario.md)
++ [Icario, Erigone ed il cane Mera][1]
++ [La ninfa Callisto][2]
 
 
 ### Costellazioni
@@ -20,10 +21,10 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 | Auriga |  |
 | Balena |  |
 | Bilancia |  |
-| Boote | [Icario](mitologia/icario.md) |
+| Boote | [Icario][1] |
 | Cancro |  |
 | Cane Maggiore |  |
-| Cane Minore | [cane Mera](mitologia/icario.md) |
+| Cane Minore | [cane Mera][1] |
 | Carena (Nave Argo) |  |
 | Capricorno |  |
 | Cassiopea |  |
@@ -49,8 +50,8 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 | Lupo |  |
 | Ofiuco |  |
 | Orione |  |
-| Orsa Maggiore |  |
-| Orsa Minore |  |
+| Orsa Maggiore | [Callisto][2] |
+| Orsa Minore | [Arcade][2] |
 | Pegaso |  |
 | Perseo |  |
 | Pesce Australe |  |
@@ -61,4 +62,7 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 | Serpente |  |
 | Toro |  |
 | Vele (Nave Argo) |  |
-| Vergine | [Erigone](mitologia/icario.md) |
+| Vergine | [Erigone][1] |
+
+[1]:mitologia/icario.md
+[2]:mitologia/callisto.md
