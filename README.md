@@ -6,6 +6,7 @@ Essi nascono tra il IX e l'VIII secolo a.C. e descrivono molte cose: danno un se
 Scoprirli è davvero affascinante per come intrecciano aspetti di vita quotidiana con i forti contrasti della natura umana.
 + [Icario, Erigone ed il cane Mera][1]
 + [La ninfa Callisto][2]
++ [Il rapimento di Europa][3]
 
 
 ### Costellazioni
@@ -60,9 +61,10 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 | Sagittario |  |
 | Scorpione |  |
 | Serpente |  |
-| Toro |  |
+| Toro | [Europa][3] |
 | Vele (Nave Argo) |  |
 | Vergine | [Erigone][1] |
 
 [1]:mitologia/icario.md
 [2]:mitologia/callisto.md
+[3]:mitologia/europa.md
