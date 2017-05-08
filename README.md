@@ -7,6 +7,7 @@ Scoprirli è davvero affascinante per come intrecciano aspetti di vita quotidian
 + [Icario, Erigone ed il cane Mera][1]
 + [La ninfa Callisto][2]
 + [Il rapimento di Europa][3]
++ [Leda ed il Cigno bianco][4]
 
 
 ### Costellazioni
@@ -32,7 +33,7 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 | Cavallino |  |
 | Cefeo |  |
 | Centauro |  |
-| Cigno |  |
+| Cigno | [Leda][4] |
 | Colomba (Nave Argo) |  |
 | Corona Australe |  |
 | Corona Boreale |  |
@@ -68,3 +69,4 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 [1]:mitologia/icario.md
 [2]:mitologia/callisto.md
 [3]:mitologia/europa.md
+[4]:mitologia/leda.md
