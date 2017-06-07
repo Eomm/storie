@@ -70,3 +70,7 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 [2]:mitologia/callisto.md
 [3]:mitologia/europa.md
 [4]:mitologia/leda.md
+
+## Manifesto
+Regole e principi che documento dall'esperienza e che continuo a seguire ed applicare.
++ [Manifesto del buon rompiscatole](manifesto/rompiscatole.md)
