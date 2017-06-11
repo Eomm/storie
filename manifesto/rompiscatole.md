@@ -7,11 +7,13 @@ Sviluppando software talvolta ci si inceppa in opinioni sulle implementazioni ol
 + Chiedi tutte le informazioni che non hai alla persona giusta, purché tu le abbia cercate prima
 + Non chiedere più solerzia di quella che dai
 + Quando un'attività è davvero urgente chiama il responsabile; quando non lo è non chiamarlo. Se tutto è urgente, non chiamarlo
-+ Il sollecito è permesso, insistere è scortesia
++ Il sollecito è permesso, insistere è scortesia ma ottenere una risposta è necessario quindi prova ad offrire un caffé o nel sollecito includi un superiore in copia di conoscenza
 + Questi punti valgono sia per le richieste che fai, sia per le risposte che dai
 
-Il rompiscatole è un male necessario, è colui che fa accedere le cose quando esse rischiano di essere dimenticate o peggio: ignorate.
+Il rompiscatole è un male necessario, è colui che fa accadere le cose quando esse rischiano di essere dimenticate o peggio: ignorate.
 
 Solitamente la figura del rompiscatole spetta a tutti coloro che "non sono io", ma la figura del **buon** rompiscatole è solo di quelli che applicano e rispettano questo manifesto.
 
-Applicare questi punti ti consente di raggiungere obiettivi in maniera più serena per te e per le persone che ti sono attorno instaurando un sistema di crescita personale e progettuale il cui scopo non è consegnare nel tempo previsto, ma essere soddisfatti del proprio operato ogni giorno.
+Seguire questi punti ti consente di raggiungere obiettivi in maniera più serena per te e per le persone che ti sono attorno instaurando un sistema di crescita personale e progettuale il cui scopo non è consegnare nel tempo previsto, ma essere soddisfatti del proprio operato ogni giorno.
+
+Resta implicito dire, purtroppo, questo manifesto si applica in realtà difficili che possono abbattere il morale a quelle persone che hanno molta voglia di fare ma si scontrano contro scogli di pigrizia che potrebbero sembrare più resistenti di loro.
