@@ -39,7 +39,7 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 | Corona Boreale |  |
 | Corvo |  |
 | Cratere |  |
-| Delfino |  |
+| Delfino | [Arione][5] |
 | Dragone |  |
 | Ercole |  |
 | Eridano |  |
@@ -70,6 +70,7 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 [2]:mitologia/callisto.md
 [3]:mitologia/europa.md
 [4]:mitologia/leda.md
+[5]:mitologia/arione.md
 
 ## Manifesto
 Regole e principi che documento dall'esperienza e che continuo a seguire ed applicare.
