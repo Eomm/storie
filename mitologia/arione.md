@@ -1,6 +1,6 @@
 # Il Delfino salvatore
-Arione era famoso in tutta la Grecia per le sue abilità da poeta e musicista di lira.
-Re da tutto i paesi gli chiedevano si scriver poemi o cantare per loro.
+Arione era famoso in tutta la Grecia per le sue abilità di poeta e musicista di lira.
+Re da tutti i paesi gli chiedevano di scriver poemi o cantare per loro.
 
 Una notte, mentre stava navigano verso casa dopo dei concerti in Sicilia, cominciò ad allietare il viaggio dei marinai con l'arpeggio del suo strumento.
 Gli uomini di mare si affollarono attorno a lui ad ascoltare, ma in fondo alla folla il capitano tramava contro di lui per rubargli le enormi ricchezze di cui i re gli avevano fatto dono.
