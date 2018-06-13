@@ -8,6 +8,7 @@ Scoprirli è davvero affascinante per come intrecciano aspetti di vita quotidian
 + [La ninfa Callisto][2]
 + [Il rapimento di Europa][3]
 + [Leda ed il Cigno bianco][4]
++ [Il delfino salvatore][5]
 
 
 ### Costellazioni
@@ -75,3 +76,7 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 ## Manifesto
 Regole e principi che documento dall'esperienza e che continuo a seguire ed applicare.
 + [Manifesto del buon rompiscatole](manifesto/rompiscatole.md)
+
+## Idee
+Alcune idee che voglio condividere.
++ [Gioco Fatàsia](idee/fatàsia/readme.md)
