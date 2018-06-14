@@ -434,13 +434,16 @@ In questo contesto, si possono monetizzare le azioni:
 
 Modalità uguale alla “Botta e Risposta”, solo che non si dovrà inserire un testo, bensì una sequenza di Emoji ed una frase che li spieghi.
 
-## Segui la faccia
+## Segui la traccia
 
 Modalità uguale a “Botta e Risposta”, solo che non vengono scelti i tempi all’avvio, ma ad ogni turno viene dato una parola che deve essere usata nell’inserimento.
 
 ## Riscrivi la storia
 
-Questa modalità, è l’idea iniziale con cui è nato questo progetto...
+Questa modalità, è l’idea iniziale con cui è nato questo progetto.
+Le persone possono scrivere storie suddivise in capitoli che gli altri utenti possono leggere e seguire o riscrivere!
+Quando un lettore trova un intreccio della storia che non gli piace, un lieto fine forzato o avrebbe un'idea migliore per il continuato della trama, può estenedere o modificare la storia da un punto a piacere del racconto.
+L'autore originale vedrà la sua storia senza alcun cambiamento, ma i lettori che lo leggeranno potranno scegliere se continuare a leggere la prima stesura o i finali alternativi scritti dagli altri scrittori che hanno il potere di trasformare una storia romantica in un horror fantascientifico!
 
 # Monetizzazione
 
