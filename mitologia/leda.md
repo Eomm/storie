@@ -1,4 +1,5 @@
 # Leda e il Cigno bianco
+
 Ai piedi delle montagne peloponneso scorreva l'Eurota, il fiume sulle cui rive la regina Leda, moglie del re di Sparta Tindaro, era straiata intenta ad oziare.
 
 Quel posto era incantevole ed infondeva una quiete interiore che invitava a sognare tra i salici accarezzati dalle acque del fiume, sui cui scivolavano candidi cigni.
@@ -8,7 +9,7 @@ Decise quindi di trasformarsi in un povero cigno inseguito da aquila un'affamata
 
 Così fece e cominciò a volare incalzato dall'aquila quando, finalmente il cigno si accasciò sul grembo di Leda.
 
-Lei, compassionevole, lo accarezzò e lo strinse sul suo petto. Zeus prolungò quel piacere il più possibile, per ore e ore accocolandosi a lei fino a toccarle le labbra con il suo becco.
+Lei, compassionevole, lo accarezzò e lo strinse sul suo petto. Zeus prolungò quel piacere il più possibile, per ore e ore, accocolandosi a lei fino a toccarle le labbra con il suo becco.
 
 Quando l'ora fu tarda, Zeus, battè le ali e tornò nella sua casa ma prima fermarsi pose il [Cigno bianco](https://it.wikipedia.org/wiki/Cigno_(costellazione)) tra stelle.
 

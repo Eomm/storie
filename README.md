@@ -16,56 +16,56 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 
 | Costellazione | Mito |
 |---|---|
-| Acquario |  |
-| Altare |  |
-| Andromeda |  |
-| Aquila  |  |
-| Ariete |  |
-| Auriga |  |
-| Balena |  |
-| Bilancia |  |
-| Boote | [Icario][1] |
-| Cancro |  |
-| Cane Maggiore |  |
-| Cane Minore | [cane Mera][1] |
-| Carena (Nave Argo) |  |
-| Capricorno |  |
-| Cassiopea |  |
-| Cavallino |  |
-| Cefeo |  |
-| Centauro |  |
-| Cigno | [Leda][4] |
-| Colomba (Nave Argo) |  |
-| Corona Australe |  |
-| Corona Boreale |  |
-| Corvo |  |
-| Cratere |  |
-| Delfino | [Arione][5] |
-| Dragone |  |
-| Ercole |  |
-| Eridano |  |
-| Freccia |  |
-| Gemelli |  |
-| Idra Femmina |  |
-| Leone |  |
-| Lepre |  |
-| Lira |  |
-| Lupo |  |
-| Ofiuco |  |
-| Orione |  |
-| Orsa Maggiore | [Callisto][2] |
-| Orsa Minore | [Arcade][2] |
-| Pegaso |  |
-| Perseo |  |
-| Pesce Australe |  |
-| Pesci |  |
-| Poppa (Nave Argo) |  |
-| Sagittario |  |
-| Scorpione |  |
-| Serpente |  |
-| Toro | [Europa][3] |
-| Vele (Nave Argo) |  |
-| Vergine | [Erigone][1] |
+| Acquario               |  |
+| Altare                 |  |
+| Andromeda              |  |
+| Aquila                 |  |
+| Ariete                 |  |
+| Auriga                 |  |
+| Balena                 |  |
+| Bilancia               |  |
+| Boote                  | [Icario][1] |
+| Cancro                 |  |
+| Cane Maggiore          |  |
+| Cane Minore            | [cane Mera][1] |
+| Carena (Nave Argo)     |  |
+| Capricorno             |  |
+| Cassiopea              |  |
+| Cavallino              |  |
+| Cefeo                  |  |
+| Centauro               |  |
+| Cigno                  | [Leda][4] |
+| Colomba (Nave Argo)    |  |
+| Corona Australe        |  |
+| Corona Boreale         |  |
+| Corvo                  |  |
+| Cratere                |  |
+| Delfino                | [Arione][5] |
+| Dragone                |  |
+| Ercole                 |  |
+| Eridano                |  |
+| Freccia                |  |
+| Gemelli                |  |
+| Idra Femmina           |  |
+| Leone                  |  |
+| Lepre                  |  |
+| Lira                   |  |
+| Lupo                   |  |
+| Ofiuco                 |  |
+| Orione                 |  |
+| Orsa Maggiore          | [Callisto][2] |
+| Orsa Minore            | [Arcade][2] |
+| Pegaso                 |  |
+| Perseo                 |  |
+| Pesce Australe         |  |
+| Pesci                  |  |
+| Poppa (Nave Argo)      |  |
+| Sagittario             |  |
+| Scorpione              |  |
+| Serpente               |  |
+| Toro                   | [Europa][3] |
+| Vele (Nave Argo)       |  |
+| Vergine                | [Erigone][1] |
 
 [1]:mitologia/icario.md
 [2]:mitologia/callisto.md
@@ -76,6 +76,7 @@ Le costellazioni odierne sono 88, ma la mitologia greca descrive le 38 costellaz
 ## Manifesto
 Regole e principi che documento dall'esperienza e che continuo a seguire ed applicare.
 + [Manifesto del buon rompiscatole](manifesto/rompiscatole.md)
++ [Manifesto della scrittura del software](manifesto/scrivere-software.md)
 
 ## Idee
 Alcune idee che voglio condividere.

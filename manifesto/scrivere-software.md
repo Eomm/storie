@@ -5,7 +5,7 @@ Dalla mia esperienza, mi sono fatto l'idea che troppe persone vedano il software
 Nella fabbrica ci sono operai che forgiano auto, nell'ufficio ci sono programmatori che producono software: semplice parallellismo.
 Penso che non ci sia nulla di più sbagliato.
 
-Vorrei condividere il mio pensiero su cos'è per me scrivere software per uno sviluppatore, avvicinandomi alla figura che probabilmente più si avvicina a questo lavoro: lo scrittore di romanzi.
+Vorrei condividere il mio pensiero su cos'è per me scrivere software, avvicinandomi alla figura che probabilmente più si avvicina a questo lavoro: lo scrittore di romanzi.
 
 + Per prima cosa serve una trama solida altrimenti sarà solo confusione
 + Serve ispirazione altrimenti diventerà un libro scialbo e banale

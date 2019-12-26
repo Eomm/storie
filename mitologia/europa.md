@@ -1,7 +1,8 @@
 # Europa
+
 Un giorno Zeus, mentre osservava le coste fenice, notò l'incantevole Europa, figlia del re Tiro, mentre raccoglieva dei fiori nei pressi della spiaggia attorniata dalle sue ancelle.
 
-In questa immagine idilliaca Afrodite (dea dell'Amore) vide lo sguardo innamorato del signore degli Dei e quindi ordinò al figlio Eros di colpire Zeus con una delle sue frecce.
+In questa immagine idilliaca Afrodite, dea dell'Amore, vide lo sguardo innamorato del signore degli Dei e quindi ordinò al figlio Eros di colpire Zeus con una delle sue frecce.
 
 Da quel momento Zeus ebbe solo occhi per Europa e decise che le avrebbe fatto visita; ordinò dunque ad Ermes di guidare i buoi di Tiro verso la spiaggia e lui assunse le sembianze di un magnifico toro bianco per mimetizzarsi nella mandria ed evitare lo sguardo di Hera, la sua gelosa moglie.
 
